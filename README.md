@@ -28,3 +28,6 @@ Whether you're looking to kill some time or challenge yourself, this game promis
    ```bash
    git clone https://github.com/your-username/stick-platform-game.git
 
+![image](https://github.com/user-attachments/assets/4a99043c-781e-418b-bd07-4740c1d4345d)
+
+
