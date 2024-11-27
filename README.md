@@ -1,3 +1,7 @@
+# Play the Game for free
+
+https://sapphire-lenee-78.tiiny.site
+
 # Stick Platform Game 🎮
 
 Welcome to the **Stick Platform Game**, a fun and challenging experience that tests your timing, precision, and creativity. Stretch your stick perfectly to connect platforms, 
