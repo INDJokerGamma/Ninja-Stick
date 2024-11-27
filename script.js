@@ -1,7 +1,3 @@
-/*
-If you want to know how this game was made, check out this video, that explains how it's made: 
-
-*/
 
 // Extend the base functionality of JavaScript
 Array.prototype.last = function () {
